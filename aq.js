@@ -1,4 +1,4 @@
-document.writeln("");
+document.writeln(""); 
 document.writeln("<!DOCTYPE html>");
 document.writeln("<html>");
 document.writeln("<head>");
