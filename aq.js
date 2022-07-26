@@ -71,7 +71,7 @@ document.writeln("<div class=\"cate_name\">");
 document.writeln("<p><i class=\"fa fa-envelope\" aria-hidden=\"true\"></i> 赔付渠道</p>");
 document.writeln("</div>");
 document.writeln("<a><li>所有未尽及具体事宜，请联繫</li></a>");
-document.writeln("<a><li>电子邮箱：<span style=\"color:#003399;\">500dizhi@gmail.com</span></li></a>");
+document.writeln("<a><li>电子邮箱：<span style=\"color:#003399;\">500fulidaohang@gmail.com</span></li></a>");
 document.writeln("<a><li>因客服事务繁杂因客服事务繁杂，请您务必邮件标题注明链接赔付，我们将优先处理！</li></a>");
 document.writeln("<br class=\"clear\">");
 document.writeln("</div>");
