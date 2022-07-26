@@ -80,7 +80,7 @@ document.writeln("<div class=\"cate_name\">");
 document.writeln("<p><i class=\"fa fa-envelope\" aria-hidden=\"true\"></i> 联络我们</p>");
 document.writeln("</div>");
 document.writeln("<a><li>关于友情链接及广告刊登的相关事宜，请联繫</li></a>");
-document.writeln("<a><li>电子邮箱：<span style=\"color:#003399;\">500dizhi@gmail.com</span></li></a>");
+document.writeln("<a><li>电子邮箱：<span style=\"color:#003399;\">500fulidaohang@gmail.com</span></li></a>");
 document.writeln("<a><li>如果有一天网站忽然消失，你又想找到我们...</li></a>");
 document.writeln("<a><li>请发送任意内容到上述邮箱找到回家的路</li></a>");
 document.writeln("<br class=\"clear\">");
