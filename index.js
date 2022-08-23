@@ -892,6 +892,7 @@ document.writeln("</div>");
 document.writeln("<a rel=\"external nofollow\" href=\"https://www.dianbaoqun.net\" target=\"_blank\" title=\"Telegram群组\" style=\"color:blue;font-weight:bold\"><li>Telegram群组</li></a>");
 document.writeln("<a rel=\"external nofollow\" href=\"https://ping.pe\" target=\"_blank\" title=\"域名被墙查询\"><li>域名被墙查询</li></a>");
 document.writeln("<a rel=\"external nofollow\" href=\"https://www.423down.com/\" target=\"_blank\" title=\"绿色版软件\"><li>绿色版软件</li></a>");
+document.writeln("<a rel=\"external nofollow\" href=\"https://zhizhu.bmcx.com\" target=\"_blank\" title=\"蜘蛛模拟器\"><li>蜘蛛模拟器</li></a>");
 document.writeln("<a rel=\"external nofollow\" href=\"https://tool.oschina.net/qr\" target=\"_blank\" title=\"二维码生成\"><li>二维码生成</li></a>");
 document.writeln("<a rel=\"external nofollow\" href=\"https://www.google.com.hk/imghp\" target=\"_blank\" title=\"Google搜图\"><li>Google搜图</li></a>");
 document.writeln("<a rel=\"external nofollow\" href=\"https://xiaomark.com/tool\" target=\"_blank\" title=\"运营工具大全\"><li>运营工具大全</li></a>");
