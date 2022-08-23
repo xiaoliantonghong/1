@@ -25,7 +25,7 @@ document.writeln("</head>");
 document.writeln("<body oncontextmenu=\"return false\" onselectstart=\"return false\" ondragstart=\"return false\">");
 document.writeln("<div id=\"container\">");
 document.writeln("<div class=\"nav\">");
-document.writeln("<a href=\"https://500fby.top\" target=\"_b8lank\" style=\"color:yellow;font-weight:bold\"><li>地址发布</li></a>");
+document.writeln("<a href=\"https://500fby.top\" target=\"_b8lank\" style=\"color:yellow;font-weight:bold\"><li>地址发布1</li></a>");
 document.writeln("<a href=\"#shipin\" target=\"_self\" style=\"color:white;font-weight:bold\"><li>在线视频</li></a>");
 document.writeln("<a href=\"#daohang\" target=\"_self\" style=\"color:white;font-weight:bold\"><li>福利导航</li></a>");
 document.writeln("<a href=\"#youxi\" target=\"_self\" style=\"color:white;font-weight:bold\"><li>游戏乐园</li></a>");
