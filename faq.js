@@ -61,7 +61,7 @@ document.writeln("<p><i class=\"fa fa-handshake-o\" aria-hidden=\"true\"></i> �
 document.writeln("</div>");
 document.writeln("<a><li><span style=\"color:#E53333;\"><i class=\"fa fa-exclamation-triangle\" aria-hidden=\"true\"></i> 以下内容务必详细阅读，否则不会收录！</span></li></a>");
 document.writeln("<a><li>1、网站名称：<font color=\"#003399\"> 500福利导航 </font> </li></a>");
-document.writeln("<a><li>2、收录地址：<span style=\"color:#003399;\"><i class=\"fa fa-link\" aria-hidden=\"true\"></i> <u>https://www.500dizhi.com</u></span> </li></a>");
+document.writeln("<a><li>2、收录地址：<span style=\"color:#003399;\"><i class=\"fa fa-link\" aria-hidden=\"true\"></i> <u>https://500fldh.top</u></span> </li></a>");
 document.writeln("<a><li>3、将500福利导航放置于全站友链前五位;</li></a>");
 document.writeln("<a><li>4、将站点资料发送至500福利导航官方邮箱;</li></a>");
 document.writeln("<a><li>5、不收录站群类站点/恶意代码站点/纯付费站点;</li></a>");
